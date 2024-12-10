@@ -1,4 +1,4 @@
-import java.util.Locale; //Importa a biblioteca de localidade
+import java.util.Locale; //Importa a biblioteca de localidades
  
 public class Main {
  

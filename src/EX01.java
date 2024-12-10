@@ -1,5 +1,5 @@
 import java.util.Locale;
- 
+ //commit
 public class EX01 {
  
 	public static void main(String[] args) {

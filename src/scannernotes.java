@@ -6,6 +6,7 @@ public class scannernotes {
 		 * Para fazer entrada de dados, nós vamos criar um objeto do tipo
 		 * "Scanner" da seguinte forma:
 		 *
+		 *
 		 * # Scanner sc = new Scanner(System.in);
 		 * ##Import java.util.Scanner
 		 * ###faca sc.close() quando nao precisar mais do objeto sc ele desaloca a funcao

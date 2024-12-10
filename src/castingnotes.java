@@ -1,7 +1,7 @@
 public class castingnotes {
  
 	public static void main(String[] args) {
-	///Exemplo 1# De uma saída onde o programa imprime números inteíros
+	//Exemplo 1# De uma saída onde o programa imprime números inteíros
 		/*
 		int x, y;
 		

@@ -2,7 +2,7 @@ public class functionsmathjava {
  
 	public static void main(String[] args) {
 		/*
-		 * -------------Algumas Funcoes matematicas em java----------
+		 * ------------Algumas Funcoes matematicas em java----------
 		 *
 		 * A = Math.sqrt(x);  //Variavel A recebe raiz quadrada de x
 		 * A = Math.pow(x, y); //Variavel A recebe o resultado de x elevado a y
